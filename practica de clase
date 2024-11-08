@@ -1,0 +1,7 @@
+Inicio
+Definir S como caracter;
+Escribir "nombre del Alumno";
+Leer S;
+
+Escribir "nombre del Alumno:",S;
+Fin
