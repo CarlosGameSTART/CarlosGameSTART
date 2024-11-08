@@ -1,0 +1,13 @@
+Algoritmo CAMBIO
+	Definir OB como caracter;
+	Definir CT, CD, CA Como Real;
+	Escribir "Articulo";
+	Leer OB;
+	Escribir "Escribir el Costo: ";
+	Leer CT;
+	Escribir "Ingrese el pago: ";
+	Leer CD;
+	CA<-CD-CT;
+	Escribir "Cambio: ",CA;
+	Escribir "Carlos Alberto Cortinas Cisneros";
+FinAlgoritmo
